@@ -16,7 +16,7 @@ export const Footer = () => {
             <div className="space-y-2">
               <p className="flex items-center gap-2">
                 <MapPin size={18} />
-                123 Business Ave, Tech City
+                128 Business Ave, Tech City
               </p>
               <p className="flex items-center gap-2">
                 <Phone size={18} />
